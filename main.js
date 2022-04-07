@@ -2,7 +2,7 @@ noseX=0;
 noseY=0;
 
 function preload() {
-    hat = loadImage("lipstick.png")
+    hat = loadImage("earing.png")
 }
 
 function setup() {
