@@ -1,0 +1,28 @@
+h3 {
+    font-size: 25px !important;
+
+}
+#idiot:hover {
+background-color: plum;
+}
+
+canvas {
+    animation-name: exampleeeeee;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    
+    
+}
+@keyframes exampleeeeee{
+    from {
+        box-shadow: 1px 1px 30px rgb(155, 4, 92);
+        
+    } 
+    to {
+        box-shadow: 1px 1px 30px plum ;
+    }
+}
+
+body {
+    background-color: rgb(221, 248, 244);
+}
